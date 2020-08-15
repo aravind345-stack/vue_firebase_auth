@@ -4,7 +4,7 @@
     <nav class="navbar shadow bg-white rounded justify-content-between flex-nowrap flex-row fixed-top">
       <div class="container">
         <a class="navbar-brand float-left" href="/" target="_blank">
-          Basic Auth Site
+          Basic
         </a>
         <ul class="nav navbar-nav flex-row float-right">
           <li class="nav-item">
